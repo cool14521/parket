@@ -22,7 +22,7 @@
     "eslint-config-synacor": "^3.0.3",
     "if-env": "^1.0.0",
     "preact-cli": "^2.0.0",
-    "remotedev": "^0.2.7"
+    "remotedev": "^0.2.9"
   },
   "dependencies": {
     "classnames": "^2.2.5",
